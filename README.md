@@ -21,14 +21,7 @@ entire
 [OWASP Top Ten](https://owasp.org/www-project-top-ten) along with many other security flaws found in real-world
 applications!
 
-For a detailed introduction, full list of features and architecture overview please visit the official project page:
-<https://owasp-juice.shop>
-
-
 ## Setup
-
-> You can find some less common installation variations in
-> [the _Running OWASP Juice Shop_ documentation](https://pwning.owasp-juice.shop/companion-guide/latest/part1/running.html).
 
 ### From Sources
 
