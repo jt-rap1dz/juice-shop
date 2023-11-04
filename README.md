@@ -32,7 +32,7 @@ applications!
 3. Go into the cloned folder with `cd juice-shop`
 4. Run `npm install` (only has to be done before first start or when you change the source code)
 5. Run `npm start`
-6. Browse to <http://localhost:80>
+6. Browse to <http://localhost>
 
 ### Packaged Distributions
 
@@ -45,7 +45,7 @@ applications!
    `.tgz`) 
 3. Unpack and `cd` into the unpacked folder
 4. Run `npm start`
-5. Browse to <http://localhost:80>
+5. Browse to <http://localhost>
 
 > Each packaged distribution includes some binaries for `sqlite3` and
 > `libxmljs` bound to the OS and node.js version which `npm install` was
