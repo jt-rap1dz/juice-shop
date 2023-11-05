@@ -5,7 +5,7 @@ application:
   domain: simpentest-sttal.com
   name: 'Simulator Penetration Testing STTAL'
   logo: 'https://raw.githubusercontent.com/jt-rap1dz/workshop-penetrasi-jaringan/main/public/logo_sttal.png'
-  favicon: https://raw.githubusercontent.com/jt-rap1dz/workshop-penetrasi-jaringan/main/public/favicon_sttal.ico'
+  favicon: 'https://raw.githubusercontent.com/jt-rap1dz/workshop-penetrasi-jaringan/main/public/favicon_sttal.ico'
   theme: blue-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: true
   showGitHubLinks: true
