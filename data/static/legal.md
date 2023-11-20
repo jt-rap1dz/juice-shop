@@ -1,53 +1,14 @@
 # Legal Information
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
-elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-est Lorem ipsum dolor sit amet.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum
-dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
-suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem
-vel eum iriure dolor in hendrerit in vulputate velit esse molestie
-consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et
-accumsan et iusto odio dignissim qui blandit praesent luptatum zzril
-delenit augue duis dolore te feugait nulla facilisi.
+Sekolah Tinggi Teknologi Angkatan Laut
+Program Pendidikan Diploma Dalam Mendukung Penguasaan Studi Informatika
+Menunjang Tugas Maritim Dalam Tanggung Jawab Teknologi Informasi
+Teknik informatika hadir sebagai sarana studi infomasi mengenai kemaritiman dan pengembangan teknologi
 
 ## Terms of Use
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet
-doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit
-amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad
-minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis
-nisl ut aliquip ex ea commodo consequat.
+1. Memiliki ilmu pengetahuan teknologi teknik informatika dengan kualifikasi diploma III, bermoral yang berlandaskan Pancasila, UUD 1945, Sapta Marga, Sumpah Prajurit, 8 Wajib TNI, Trisila TNI AL dan Tri Dharma Perguruan Tinggi, serta memiliki kesamaptaan jasmani sesuai standar militer.
+2. Tenaga ahli madya bidang teknik informatika dan sistem perkapalan yang menguasai Iptek dan mempunyai keterampilan sesuai bidangnya, mampu bekerjasama, bersikap positif dan berperilaku yang baik dalam menerapkan bidang keahliannya, serta mampu mengembangkan profesinya sesuai dengan kebutuhan khususnya di lingkungan kedinasan TNI/Polri dan umumnya di masyarakat.
+3. Memiliki pola berpikir logis dan rasional dengan bekal Iptek teknik informatika untuk dapat memelihara, merawat, mereparasi, merancang dan mengawasi serta dapat menerapkan Iptek teknik informatika di lingkungan kedinasan TNI/Polri.
+4. Memiliki kemampuan dalam memecahkan berbagai masalah teknik informatika di lingkungan kedinasan TNI/Polri dengan menerapkan Ilmu pengetahuan dan teknologi pertahanan keamanan untuk meningkatkan kemampuan dan keterampilan.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-molestie consequat, vel illum dolore eu feugiat nulla facilisis.
-
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
-ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At
-accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy
-sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd
-magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem
-ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
