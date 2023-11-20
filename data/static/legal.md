@@ -1,9 +1,9 @@
 # Legal Information
 
-Sekolah Tinggi Teknologi Angkatan Laut
-Program Pendidikan Diploma Dalam Mendukung Penguasaan Studi Informatika
-Menunjang Tugas Maritim Dalam Tanggung Jawab Teknologi Informasi
-Teknik informatika hadir sebagai sarana studi infomasi mengenai kemaritiman dan pengembangan teknologi
+Sekolah Tinggi Teknologi Angkatan Laut.
+Program Pendidikan Diploma Dalam Mendukung Penguasaan Studi Informatika.
+Menunjang Tugas Maritim Dalam Tanggung Jawab Teknologi Informasi.
+Teknik informatika hadir sebagai sarana studi infomasi mengenai kemaritiman dan pengembangan teknologi.
 
 ## Terms of Use
 
