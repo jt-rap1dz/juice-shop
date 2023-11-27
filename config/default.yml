@@ -11,7 +11,7 @@ application:
   showGitHubLinks: false
   localBackupEnabled: false
   numberOfRandomFakeUsers: 0
-  altcoinName: Juicycoin
+  altcoinName: SimpentestCoin
   privacyContactEmail: jt.sascyber16@gmail.com
   customMetricsPrefix: simpentest
   chatBot:
