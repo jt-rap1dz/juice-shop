@@ -9,7 +9,7 @@ application:
   theme: blue-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: false
   showGitHubLinks: false
-  localBackupEnabled: false
+  localBackupEnabled: true
   numberOfRandomFakeUsers: 0
   altcoinName: SimpentestCoin
   privacyContactEmail: jt.sascyber16@gmail.com
