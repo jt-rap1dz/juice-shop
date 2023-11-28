@@ -7,13 +7,13 @@ application:
   logo: 'https://raw.githubusercontent.com/jt-rap1dz/workshop-penetrasi-jaringan/main/public/logo_sttal.png'
   favicon: 'https://raw.githubusercontent.com/jt-rap1dz/workshop-penetrasi-jaringan/main/public/favicon_sttal.ico'
   theme: blue-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
-  showVersionNumber: false
+  showVersionNumber: true
   showGitHubLinks: false
   localBackupEnabled: true
   numberOfRandomFakeUsers: 0
-  altcoinName: SimpentestCoin
+  altcoinName: Juicycoin
   privacyContactEmail: jt.sascyber16@gmail.com
-  customMetricsPrefix: simpentest
+  customMetricsPrefix: juiceshop
   chatBot:
     name: 'Juicy'
     greeting: "Nice to meet you <customer-name>, I'm <bot-name>"
