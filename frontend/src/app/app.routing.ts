@@ -44,6 +44,7 @@ import { AccountingGuard, AdminGuard, LoginGuard } from './app.guard'
 import { NFTUnlockComponent } from './nft-unlock/nft-unlock.component'
 import { ScoreBoardPreviewComponent } from './score-board-preview/score-board-preview.component'
 import { Web3SandboxComponent } from './web3-sandbox/web3-sandbox.component'
+import { PrinsipComponent } from './prinsip/prinsip.component'
 
 const loadFaucetModule = async () => {
   const module = await import('./faucet/faucet.module')
@@ -73,6 +74,10 @@ const routes: Routes = [
   {
     path: 'about',
     component: AboutComponent
+  },
+  {
+    path: 'prinsip',
+    component: PrinsipComponent
   },
   {
     path: 'address/select',
